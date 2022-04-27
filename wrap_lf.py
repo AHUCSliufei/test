@@ -9,6 +9,8 @@ from skimage.measure import compare_ssim as ssim
 from PIL import Image
 import random
 
+######test git
+
 # ta means time align
 exp_path = '/DATA/yangmengmeng/liufei/DeepHomography-master/Sequence/fastwhite/'
 # new wrap img save path
